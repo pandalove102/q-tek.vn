@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description><![CDATA[]]></description>
+		<link>http://livedemo00.template-help.com/joomla_55704/index.php</link>
+		<lastBuildDate>Sun, 14 Oct 2018 12:38:17 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://livedemo00.template-help.com/joomla_55704/index.php?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>admin@tm.com (Hostax)</managingEditor>
+		<item>
+			<title>Welcome!</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/2-welcome</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/2-welcome</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:29:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pintex</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/welcome</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/welcome</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:27:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lorem ipsum</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/3-lorem-ipsum</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/3-lorem-ipsum</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:34:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dolor sit amet</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/4-dolor-sit-amet</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/4-dolor-sit-amet</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:34:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Conse ctetur adipi</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/5-conse-ctetur-adipi</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/5-conse-ctetur-adipi</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:35:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lorem ipsum</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/139-lorem-ipsum</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/139-lorem-ipsum</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:34:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dolor sit amet</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/138-dolor-sit-amet</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/138-dolor-sit-amet</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:34:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Conse ctetur adipi</title>
+			<link>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/137-conse-ctetur-adipi</link>
+			<guid isPermaLink="true">http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/137-conse-ctetur-adipi</guid>
+			<description><![CDATA[<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+]]></description>
+			<author>admin@tm.com (Super User)</author>
+			<category>Home</category>
+			<pubDate>Fri, 02 May 2014 23:35:27 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

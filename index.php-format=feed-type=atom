@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com"/>
+	<id>http://livedemo00.template-help.com/joomla_55704/index.php</id>
+	<updated>2018-10-14T12:38:22+00:00</updated>
+	<author>
+		<name>Hostax</name>
+		<email>admin@tm.com</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://livedemo00.template-help.com/joomla_55704/index.php?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Welcome!</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/2-welcome"/>
+		<published>2014-05-02T23:29:37+00:00</published>
+		<updated>2014-05-02T23:29:37+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/2-welcome</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Pintex</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/welcome"/>
+		<published>2014-05-02T23:27:00+00:00</published>
+		<updated>2014-05-02T23:27:00+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/welcome</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Lorem ipsum</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/3-lorem-ipsum"/>
+		<published>2014-05-02T23:34:02+00:00</published>
+		<updated>2014-05-02T23:34:02+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/3-lorem-ipsum</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Dolor sit amet</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/4-dolor-sit-amet"/>
+		<published>2014-05-02T23:34:33+00:00</published>
+		<updated>2014-05-02T23:34:33+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/4-dolor-sit-amet</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Conse ctetur adipi</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/5-conse-ctetur-adipi"/>
+		<published>2014-05-02T23:35:27+00:00</published>
+		<updated>2014-05-02T23:35:27+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/42-bottom-articles/5-conse-ctetur-adipi</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Lorem ipsum</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/139-lorem-ipsum"/>
+		<published>2014-05-02T23:34:02+00:00</published>
+		<updated>2014-05-02T23:34:02+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/139-lorem-ipsum</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Dolor sit amet</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/138-dolor-sit-amet"/>
+		<published>2014-05-02T23:34:33+00:00</published>
+		<updated>2014-05-02T23:34:33+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/138-dolor-sit-amet</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+	<entry>
+		<title>Conse ctetur adipi</title>
+		<link rel="alternate" type="text/html" href="http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/137-conse-ctetur-adipi"/>
+		<published>2014-05-02T23:35:27+00:00</published>
+		<updated>2014-05-02T23:35:27+00:00</updated>
+		<id>http://livedemo00.template-help.com/joomla_55704/index.php/63-slider/137-conse-ctetur-adipi</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@tm.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/p&gt;
+</content>
+		<category term="Home" />
+	</entry>
+</feed>
